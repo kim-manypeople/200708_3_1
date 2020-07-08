@@ -1,0 +1,44 @@
+html{background-color: red}
+		h1,h2,h3,div,ul,li{font-family: 'Noto Sans KR', sans-serif;}
+		body,h1,h2,h3,p,div,ul,li{margin: 0; padding:0}
+		p{font-size: 2em; font-weight: 500 ; line-height: 1.8}
+		nav{height: 80px;text-align:center;position: sticky; top: 0;font-weight: 500 ; }
+		nav ul{ text-align: center; margin: auto;}
+		nav ul li{display: inline-block;margin-left: 60px;list-style-type: none; height: 80px; text-align: center; line-height: 80px}
+		nav ul li a{color: white;display: block; text-decoration: none; font-size: 2em; font-weight: 500; }
+		
+		.bg-red{background: red}
+		.plan{font-family: 'Nanum Pen Script', cursive; font-size: 0.8em}
+		.body{font-family: 'Noto Sans KR', sans-serif;}
+		.smallp{font-size: 1.3em}
+		.column{}
+		.col-1
+		.col-2
+		.col-3
+		.col-4
+		.col-5
+		.col-6
+		.h-600{height: 600px}
+		.h-200{height: 200px}
+		.row{position: relative;}
+		.ptitle{transform: rotate(90deg);}
+		#abs9{position: absolute; right: 60px; top: 1150px}
+		#abs10{position: absolute; top: 850px; left: 60px;z-index: 10}
+		#abs1{position: absolute; top: 350px}
+		#abs2{position: absolute;top: 470px; z-index: 9; left: 60px}
+		#abs3{position: absolute; top: 1000px; left: 60px; z-index: 8}
+		#abs4{position: absolute; top: 1050px; left: 100px;z-index: 7}
+		#abs5{position: absolute; top: 1110px; right: 550px; z-index: 8 ;}
+		#abs6{position: absolute; top: 1000px; right: 60px}
+		#abs7{position: absolute;left:60px; top: 1600px}
+		#abs8{position: absolute; right: 60px; top: 1900px}
+		#abs1-1{position: absolute; top: 450px; left: 60px; z-index: 10}
+		#abs1-2{position: absolute; top: 200px; left: 50px; z-index: 7}
+		#abs1-3{position: absolute; top: 250px; left: 60px; z-index: 9}
+		#abs1-4{position: absolute; top: 250px; right: 60px; z-index: 8}
+		#abs1-5{position: absolute; top: 900px; right: 200px; z-index: 9}
+		#abs1-6{position: absolute; top: 160px; right: 60px;}
+		#abs1-7{position: absolute; top: 00px;left:  60px; z-index: 4}
+		#abs1-8{position: absolute; top: 00px;right:60px; z-index: 1}
+		#abs1-9{position: absolute; top: 1800px; left: 60px ; z-index: 10}
+		#abs2-1{position: absolute; top: 2000px; left: 700px}
